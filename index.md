@@ -1,6 +1,6 @@
 ## Instituto Tecnológico de Costa Rica
 
-## Integrantes del grupo:
+## Estudiante:
 * Ramos Madrigal Jose Pablo
 
 ## Profesor
