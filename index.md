@@ -11,10 +11,10 @@
 ## I Semestre 2021
 
 ## Historias de Usuario
-![Jose Pablo Ramos Madrigal Historias de usuario ](/imgs/Jose Pablo Ramos Madrigal Historias de usuario.jpeg)
+![Jose Pablo Ramos Madrigal Historias de usuario ](/imgs/Historias de usuario.jpeg)
 
 ## Diagrama Conceptual
-![Diagrama Conceptual ](/imgs/Diagrama Conceptual.jpeg)
+![Diagrama Conceptual ](/imgs/Diagrama de clases.jpeg)
 
 ## Diagrama de clases
 ![Diagrama de clases](/imgs/Diagrama de clases.jpeg)
