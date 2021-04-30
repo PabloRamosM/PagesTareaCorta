@@ -14,7 +14,7 @@
 ![Jose Pablo Ramos Madrigal Historias de usuario ](/imgs/Historias de usuario.jpeg)
 
 ## Diagrama Conceptual
-![Diagrama Conceptual ](/imgs/Diagrama de clases.jpeg)
+![Diagrama Conceptual ](/imgs/Diagrama Conceptual.jpeg)
 
 ## Diagrama de clases
 ![Diagrama de clases](/imgs/Diagrama de clases.jpeg)
